@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Codwears badge](https://www.codewars.com/users/Speed-Buster/badges/micro)](https://www.codewars.com/users/Speed-Buster)
 
 <!--
 **MikulchykArtsiom/MikulchykArtsiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
